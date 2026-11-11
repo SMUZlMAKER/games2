@@ -1,5 +1,16 @@
 [
   {
+    "id": "21ba8e95-d65b-4108-839e-381e2ab5bee2",
+    "name": "nfs",
+    "paths": {
+      "save_dir_path": "C:\\Users\\mamey\\OneDrive\\Документы\\Need For Speed(TM) Payback",
+      "exe_path": "C:\\Games\\Need for Speed - Payback\\NeedForSpeedPayback.exe"
+    },
+    "process_names": [
+      "NeedForSpeedPayback.exe"
+    ]
+  },
+  {
     "id": "b728bf24-e6c1-4303-886e-ffbfa9539c68",
     "name": "low budget",
     "paths": {
